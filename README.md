@@ -8,3 +8,4 @@ My name is Warren "Stephen" Rose II.  I am working on a CAGD Bachelor's with two
 
 ## UX Journal
 
+[First Journal](tree/master/journal-01)
