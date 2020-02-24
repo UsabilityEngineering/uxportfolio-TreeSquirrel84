@@ -7,7 +7,7 @@ Once I had decided on a game, using the system's preferred method of sending a c
 
 The second game copy I decided to have my friend purchase themselves by supplying them with a Steam Gift Card.  This was as simple as typing Steam Gift Card into the search bar and picking from a list of options, or clicking on an icon of a spread of cards in the corner of the store menu's front page.  This was very **memorable** as the procedure was something I recalled after months with little effort, although it had taken me some effort to track down the first time I used the interface.  Also this was a slightly **inefficient** method as the cards are only available in $5, $10, $25 denominations with little choice to send exact values, while purchasing a card with the exact amount needed would have been more efficient and convenient for the user (albeit at a potential loss of profit from the company which is currently able to pocket those overages).
 
-![First Three Values Of Steam Gift Cards](assets/steamcapture.jpg)
+![First Three Values Of Steam Gift Cards](../assets/steamcapture.jpg)
 
 The third game copy I had hopes of sending using the Game Key which is a series of letters and numbers that the Steam service can read in order to unlock a game into someone's library.  However, Steam had disabled this convenient option in its own store so I purchased the key using a third-party service called HumbleBundle and sent the code to them by text message on my phone.
 
