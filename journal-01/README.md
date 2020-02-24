@@ -1,4 +1,4 @@
 First Journal Entry - Steam Interface
 Warren Rose II - 2/23/20
 
-In order to play some co-operative computer games with online friends I decided to use Valve's Steam service.  
+In order to play some co-operative computer games with online friends I decided to use Valve's Steam service to purchase three copies of a game.  Finding the right type of game was slightly buggy as the interface provided for searching the store's database with tags required the tags to be retyped each time the search page was reloaded after calling up the individual page for each game.  Deleting tags and entering new ones into the search box sometimes resulted in 'invisible' tags persisting, narrowing the search field unnecessarily with no way to correct for this until the page was reloaded.  This method of searching proved to not be very **error tolerant** as mistyped words or missed clicks by the user could sometimes cascade for little apparent reason, while a more error tolerant system would have proved much more forgiving.
