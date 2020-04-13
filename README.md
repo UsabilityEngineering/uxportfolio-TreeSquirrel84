@@ -9,6 +9,6 @@ My name is Warren "Stephen" Rose II.  I am working on a CAGD Bachelor's with two
 ## UX Journal
 
 * [First Journal](journal-01/README.md)
-   - [Steam Store Page](https://store.steampowered.com/)
+   - [Steam Storefront](https://store.steampowered.com/)
 * [Second Journal](journal-02/README.md)
    - [Rebelle 3](https://www.escapemotions.com/products/rebelle/)
