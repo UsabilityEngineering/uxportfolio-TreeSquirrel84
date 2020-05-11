@@ -13,4 +13,4 @@ When all goes well, the icons for extensions hang out in the upper right corner 
 
 ![uBlock Extension Interface](../assets/uBlock.JPG)
 
-Oh well.  At least the interface for uBlock is pretty and the big blue power button meant to disable whether or not the current page is being monitored is **satisfying** to turn on and off.
+Oh well.  At least the interface for uBlock is pretty and the big blue power button indicating whether or not the current page is being monitored is **satisfying** to enable and disable.
