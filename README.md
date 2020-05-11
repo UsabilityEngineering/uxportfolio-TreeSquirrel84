@@ -12,3 +12,5 @@ My name is Warren "Stephen" Rose II.  I am working on a CAGD Bachelor's with two
    - [Steam Storefront](https://store.steampowered.com/)
 * [Second Journal](journal-02/README.md)
    - [Rebelle 3](https://www.escapemotions.com/products/rebelle/)
+* [Third Journal](journal-03/README.md)
+   - [Placeholder](https://www.escapemotions.com/products/rebelle/)
