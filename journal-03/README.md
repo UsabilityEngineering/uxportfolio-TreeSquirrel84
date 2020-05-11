@@ -10,3 +10,7 @@ It's interesting what I can find by searching for random terms, such as typing i
 ![Chrome Extension Dock](../assets/extenbar.jpg)
 
 When all goes well, the icons for extensions hang out in the upper right corner of the screen, next to the address bar.  They stay there, sometimes adding useful things to the screen, sometimes operating mysteriously.  For instance, I'm consistently seeing 3 'requests' blocked by my uBlocker ad management extension while I'm editing this document on github - and I'm genuinely mystified as to why.  When everything's working smoothly, this improves my **safety** (enhances situations designed to protect the user from harm) through such things as blocking harmful things on phishing sites and improving my data security.  However, this ad blocking software can also impede my regular internet life through temporarily making certain legitimate websites inoperable, such as disabling the credit card entry field on the Comcast website, without a particularly **memorable** indicator of what is going on.
+
+![uBlock Extension Interface](../assets/uBlock.jpg)
+
+Oh well.  At least the interface for uBlock is pretty and the big blue power button meant to disable whether or not the current page is being monitored is **satisfying** to turn on and off.
