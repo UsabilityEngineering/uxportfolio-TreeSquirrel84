@@ -13,4 +13,4 @@ My name is Warren "Stephen" Rose II.  I am working on a CAGD Bachelor's with two
 * [Second Journal](journal-02/README.md)
    - [Rebelle 3](https://www.escapemotions.com/products/rebelle/)
 * [Third Journal](journal-03/README.md)
-   - [Placeholder](https://www.escapemotions.com/products/rebelle/)
+   - [Google Chrome Extensions](https://chrome.google.com/webstore/category/extensions)
